@@ -1,4 +1,4 @@
-# Oksana_Kyrylovets_JS15_product
+# Oksana_Kyrylovets_JS16_product
 
 This README file contains instructions for using the Product.
 
